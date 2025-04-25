@@ -1,0 +1,6 @@
+@LOTR_API_WebApplication_HostAddress = http://localhost:5052
+
+GET {{LOTR_API_WebApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4K6ZIEuX5VI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timhe\\OneDrive - HTL Saalfelden\\4AHINF\\POS\\13-LOTR-API\\LOTR-API_Solution\\LOTR-API_WebApplication\\LOTR-API_WebApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timhe\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\timhe\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
